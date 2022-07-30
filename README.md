@@ -1,3 +1,8 @@
+Tools used: 1.visual studio code 2 Node 3 Git
+
+Technology used: Reactjs and Material UIStep to rum application : 1. Download source code 2 open in vs code 3. open terminal change directoty as per your local folder sturucture 4. install all dependecies using command "npm install" in terminal 5 npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
